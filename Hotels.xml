@@ -1,107 +1,99 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Hotels>
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address>
+		<Address NearestAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E 7th St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
 	</Hotel>
 	
 	<Hotel Rating="4.3">
 		<Name>Grand Hyatt Scottsdale Resort</Name>
 		<Phone>480-444-1234</Phone>
-		<Address>
+		<Address NearestAirport="Sky Harbor">
 			<Number>7500</Number>
 			<Street>E Doubletree Ranch Rd</Street>
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85258</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
 	</Hotel>
 
 	<Hotel Rating="3.7">
 		<Name>Revival Scottsdale Studios</Name>
 		<Phone>480-590-1807</Phone>
-		<Address>
+		<Address NearestAirport="Sky Harbor">
 			<Number>13440</Number>
 			<Street>N Scottsdale Rd</Street>
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85254</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
 	</Hotel>
 
 	<Hotel Rating="4.3">
 		<Name>Meridian CondoResorts</Name>
 		<Phone>480-571-4985</Phone>
-		<Address>
+		<Address NearestAirport="Sky Harbor">
 			<Number>8390</Number>
 			<Street>East Via de Ventura</Street>
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85258</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
 	</Hotel>
 
 	<Hotel Rating="4.3">
 		<Name>Hilton Phoenix Tapatio Cliffs Resort</Name>
 		<Phone>602-866-7500</Phone>
-		<Address>
+		<Address NearestAirport="Sky Harbor">
 			<Number>11111</Number>
 			<Street>N 7th St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85020</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
 	</Hotel>
 
 	<Hotel Rating="4.4">
 		<Name>Courtyard by Marriott Scottsdale North</Name>
 		<Phone>480-922-8400</Phone>
-		<Address>
+		<Address NearestAirport="Sky Harbor">
 			<Number>17010</Number>
 			<Street>N Scottsdale Rd</Street>
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85255</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
 	</Hotel>
 
 	<Hotel Rating="3.8">
 		<Name>Sonesta Simply Suites Phoenix Tempe</Name>
 		<Phone>480-777-0440</Phone>
-		<Address>
+		<Address NearestAirport="Sky Harbor">
 			<Number>1335</Number>
 			<Street>W Baseline Rd</Street>
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85283</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
 	</Hotel>
 
 	<Hotel>
 		<Name>Hampton Inn and Suites</Name>
 		<Phone>480-410-6400</Phone>
-		<Address>
+		<Address NearestAirport="Sky Harbor">
 			<Number>1550</Number>
 			<Street>S 52nd St</Street>
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
 	</Hotel>
 
@@ -109,39 +101,36 @@
 		<Name>Holiday Inn Express and Suites</Name>
 		<Phone>480-784-2233</Phone>
 		<Phone>888-465-4329</Phone>
-		<Address>
+		<Address NearestAirport="Sky Harbor">
 			<Number>670</Number>
 			<Street>N Scottsdale Rd</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85288</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
 	</Hotel>
 
 	<Hotel Rating="4.6">
 		<Name>Hyatt House Tempe</Name>
 		<Phone>480-207-1578</Phone>
-		<Address>
+		<Address NearestAirport="Sky Harbor">
 			<Number>601</Number>
 			<Street>6th St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
 	</Hotel>
 
 	<Hotel Rating="4.5">
 		<Name>Vib Hotel by Best Western Phoenix</Name>
 		<Phone>480-805-2070</Phone>
-		<Address>
+		<Address NearestAirport="Sky Harbor">
 			<Number>511</Number>
 			<Street>S Farmer Ave</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
 	</Hotel>
 </Hotels>
