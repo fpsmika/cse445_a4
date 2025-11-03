@@ -2,6 +2,7 @@
 <xs:schema id="Hotels"
     elementFormDefault="qualified"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns="https://fpsmika.github.io/cse445_a4"
 	targetNamespace="https://fpsmika.github.io/cse445_a4">
 
 	<xs:element name ="Hotels">
@@ -32,4 +33,5 @@
 		</xs:complexType>
 	</xs:element>
 </xs:schema>
+
 
